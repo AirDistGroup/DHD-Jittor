@@ -1,0 +1,9 @@
+# EfficientNet is installed separately with --no-deps by install_jtorch.sh.
+jtorch @ https://codeload.github.com/JITTorch/jtorch/tar.gz/04b339c6bed4f0449bd6b93b401c6dfd2b6bce48#sha256=d5ee51f0352c59dc4cae8e2f50d9b2005e2936911e7b93bafa7cef314977e09b
+jittor==1.3.11.0
+numpy==1.26.4
+fvcore==0.1.5.post20221221
+pyquaternion==0.9.9
+pillow==13.0.0
+cupy-cuda12x==13.6.0
+nvidia-cuda-nvrtc-cu12==12.8.93

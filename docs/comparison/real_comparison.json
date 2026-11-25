@@ -1,0 +1,254 @@
+{
+  "present_output_index": 1,
+  "pytorch_foreground_cells": [
+    114,
+    132,
+    136,
+    143,
+    120,
+    163
+  ],
+  "jtorch_foreground_cells": [
+    114,
+    132,
+    136,
+    143,
+    120,
+    163
+  ],
+  "foreground_iou_by_output": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "class_agreement": 1.0,
+  "disagreeing_cells": 0,
+  "present_instance_counts": [
+    5,
+    5
+  ],
+  "matched_instances": [
+    {
+      "pytorch_id": 1,
+      "jtorch_id": 1,
+      "present_mask_iou": 1.0,
+      "shared_track_points": 1,
+      "mean_center_distance_m": 0.0,
+      "max_center_distance_m": 0.0,
+      "centers": [
+        {
+          "output_index": 1,
+          "pytorch_center_xy_m": [
+            8.295454545454547,
+            10.56818181818182
+          ],
+          "jtorch_center_xy_m": [
+            8.295454545454547,
+            10.56818181818182
+          ],
+          "distance_m": 0.0
+        }
+      ]
+    },
+    {
+      "pytorch_id": 2,
+      "jtorch_id": 2,
+      "present_mask_iou": 1.0,
+      "shared_track_points": 3,
+      "mean_center_distance_m": 0.0,
+      "max_center_distance_m": 0.0,
+      "centers": [
+        {
+          "output_index": 1,
+          "pytorch_center_xy_m": [
+            11.607142857142854,
+            1.75
+          ],
+          "jtorch_center_xy_m": [
+            11.607142857142854,
+            1.75
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 2,
+          "pytorch_center_xy_m": [
+            11.625,
+            1.625
+          ],
+          "jtorch_center_xy_m": [
+            11.625,
+            1.625
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 3,
+          "pytorch_center_xy_m": [
+            11.916666666666664,
+            1.5
+          ],
+          "jtorch_center_xy_m": [
+            11.916666666666664,
+            1.5
+          ],
+          "distance_m": 0.0
+        }
+      ]
+    },
+    {
+      "pytorch_id": 3,
+      "jtorch_id": 3,
+      "present_mask_iou": 1.0,
+      "shared_track_points": 3,
+      "mean_center_distance_m": 0.0,
+      "max_center_distance_m": 0.0,
+      "centers": [
+        {
+          "output_index": 1,
+          "pytorch_center_xy_m": [
+            20.766666666666666,
+            -4.483333333333334
+          ],
+          "jtorch_center_xy_m": [
+            20.766666666666666,
+            -4.483333333333334
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 2,
+          "pytorch_center_xy_m": [
+            20.733333333333334,
+            -4.466666666666669
+          ],
+          "jtorch_center_xy_m": [
+            20.733333333333334,
+            -4.466666666666669
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 3,
+          "pytorch_center_xy_m": [
+            20.967391304347828,
+            -4.119565217391305
+          ],
+          "jtorch_center_xy_m": [
+            20.967391304347828,
+            -4.119565217391305
+          ],
+          "distance_m": 0.0
+        }
+      ]
+    },
+    {
+      "pytorch_id": 4,
+      "jtorch_id": 4,
+      "present_mask_iou": 1.0,
+      "shared_track_points": 1,
+      "mean_center_distance_m": 0.0,
+      "max_center_distance_m": 0.0,
+      "centers": [
+        {
+          "output_index": 1,
+          "pytorch_center_xy_m": [
+            20.63636363636364,
+            -13.795454545454547
+          ],
+          "jtorch_center_xy_m": [
+            20.63636363636364,
+            -13.795454545454547
+          ],
+          "distance_m": 0.0
+        }
+      ]
+    },
+    {
+      "pytorch_id": 5,
+      "jtorch_id": 5,
+      "present_mask_iou": 1.0,
+      "shared_track_points": 4,
+      "mean_center_distance_m": 0.0,
+      "max_center_distance_m": 0.0,
+      "centers": [
+        {
+          "output_index": 1,
+          "pytorch_center_xy_m": [
+            25.032258064516128,
+            -17.604838709677416
+          ],
+          "jtorch_center_xy_m": [
+            25.032258064516128,
+            -17.604838709677416
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 2,
+          "pytorch_center_xy_m": [
+            24.99242424242425,
+            -17.59848484848485
+          ],
+          "jtorch_center_xy_m": [
+            24.99242424242425,
+            -17.59848484848485
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 3,
+          "pytorch_center_xy_m": [
+            25.08620689655173,
+            -17.51724137931034
+          ],
+          "jtorch_center_xy_m": [
+            25.08620689655173,
+            -17.51724137931034
+          ],
+          "distance_m": 0.0
+        },
+        {
+          "output_index": 4,
+          "pytorch_center_xy_m": [
+            25.25,
+            -20.75
+          ],
+          "jtorch_center_xy_m": [
+            25.25,
+            -20.75
+          ],
+          "distance_m": 0.0
+        }
+      ]
+    }
+  ],
+  "segmentation": {
+    "mae": 9.912229608744383e-07,
+    "rmse": 2.1015909928402087e-06,
+    "p99": 9.5367431640625e-06,
+    "max": 4.00543212890625e-05
+  },
+  "instance_flow": {
+    "mae": 4.047466880486658e-06,
+    "rmse": 7.659779224789366e-06,
+    "p99": 3.170967102050781e-05,
+    "max": 0.00016045570373535156,
+    "mean_vector_distance_on_foreground_union": 6.362971394570438e-06
+  },
+  "latency_ms": {
+    "pytorch": {
+      "first": 633.569370999993,
+      "p50": 255.306585999989,
+      "p95": 289.2303381999824
+    },
+    "jtorch": {
+      "first": 6502.477908999992,
+      "p50": 339.1480530000024,
+      "p95": 342.7876810000029
+    }
+  }
+}
